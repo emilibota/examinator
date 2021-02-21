@@ -1,0 +1,21 @@
+[{
+    "enun": "Aqui se escribe la pregunta, lo has entendido?",
+    "cat":["Prueba1/Sociologia","Biologia","CatPadre/CatHijo"],
+    "resp": ["Respuesta1","Respuesta2","Respuesta3","Si que lo he entendido","No lo he entendido"],
+    "ans": ["Si que lo he entendido","Respuesta2"],
+    "obs": "Se seleccionan las respuestas especificadas porque hemos entendido el concepto."
+},
+{
+    "enun": "Segunda pregunta: 2+2?",
+    "cat":["Prueba2/Matematicas","CatPadre/CatHijo","CatAbuelo/CatPadre/CatHijo"],
+    "resp": ["5","99999","855","6","4"],
+    "ans": ["4"],
+    "obs": "Esto es una observación que sólo se verà al revisar las respuestas de un examen"
+},
+{
+    "enun": "Ultima pregunta: como estas?",
+    "cat":["Prueba3/Psicologia","CatPadre/CatHijo","CatAbuelo/CatPadre/CatHijo"],
+    "resp": ["Bien","Genial","Normal","Content@","Interesada"],
+    "ans": ["Genial","Content@"],
+    "obs": "Podriamos dejar este campo en blanco si quisieramos o no añadirlo."
+}]
